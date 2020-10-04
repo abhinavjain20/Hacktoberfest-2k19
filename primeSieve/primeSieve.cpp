@@ -76,7 +76,7 @@ void primeSieve(long long int n, long long int a[]) {
 	}
 	// Special Case
 	a[2] = 1;
-	a[1] = a[0] = 0;
+	a[1] = a[0] =  0;
 
 }
 
