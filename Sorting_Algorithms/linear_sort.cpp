@@ -17,7 +17,6 @@ void lets_do_it() {
 #endif
 }
 
-
 void  linearsearch(int a[], int size) {
   int left = 0;
   int right = size - 1;
